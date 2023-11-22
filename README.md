@@ -1,6 +1,6 @@
 # EigenLayer-Federated-Learning
-This repository is incomplete. It is supposed a rough interpretation of the architecture described below to implement a Federated Learning 
-Network as an Actively Validated Service on EigenLayer. 
+This repository is incomplete. It is supposed to be a rough interpretation of the architecture described below to implement a Federated 
+Learning Network as an Actively Validated Service on EigenLayer. 
 <br><br>
 Currently Implemented:
 - A CNN model using gorgonia training on MNIST dataset
